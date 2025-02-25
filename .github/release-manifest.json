@@ -1,9 +1,3 @@
 {
-    "test/test-release": "0.0.1",
-    "extra-files": [
-        {
-          "type": "generic",
-          "path": "Taskfile.yaml"
-        }
-    ]
+  "test/test-release": "0.0.1"
 }
