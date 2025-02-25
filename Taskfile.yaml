@@ -1,0 +1,13 @@
+version: '3'
+
+silent: true
+
+vars:
+  TEST_RELEASE_TAG: '{{ .TEST_RELEASE_TAG | default "v0.0.1" }}' # x-release-please-version
+
+
+tasks:
+  default:
+    desc: default task
+    cmds:
+      - echo {{.TEST_RELEASE_TAG}}
