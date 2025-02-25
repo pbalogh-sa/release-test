@@ -1,3 +1,4 @@
 {
-  "test/test-release": "0.0.1"
+  "test/test-release": "0.0.1",
+  "test": "1.0.0"
 }
