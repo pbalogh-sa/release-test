@@ -5,7 +5,7 @@
     "include-component-in-tag": true,
     "skip-github-release": false,
     "packages": {
-        "test/test-release": {
+        "test": {
             "package-name": "test-release",
             "release-type": "simple"
         }
