@@ -22,12 +22,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Environment
-        uses: ./.github/actions/setup-env
-        with:
-          python: false
-          go: false
-
       - name: Container image
         id: resolve
         run: |
