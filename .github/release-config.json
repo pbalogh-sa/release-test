@@ -7,13 +7,13 @@
     "packages": {
         "test": {
             "package-name": "test-release",
-            "release-type": "simple"
+            "release-type": "simple",
+            "extra-files": [
+                {
+                  "type": "generic",
+                  "path": "Taskfile.yaml"
+                }
+            ]
         }
-    },
-    "extra-files": [
-        {
-          "type": "generic",
-          "path": "Taskfile.yaml"
-        }
-    ]
+    }
 }
