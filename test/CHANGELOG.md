@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/pebalogh-test/release-test/compare/test-release-v1.0.2...test-release-v1.0.3) (2025-02-26)
+
+
+### Bug Fixes
+
+* uuu ([ec17131](https://github.com/pebalogh-test/release-test/commit/ec171312b127800ef9b8d941deb20f58fb3f9ea0))
+
 ## [1.0.2](https://github.com/pebalogh-test/release-test/compare/test-release-v1.0.1...test-release-v1.0.2) (2025-02-26)
 
 
