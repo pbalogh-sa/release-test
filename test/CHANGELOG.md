@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/pebalogh-test/release-test/compare/test-release-v1.0.3...test-release-v1.0.4) (2025-02-26)
+
+
+### Bug Fixes
+
+* gfdf ([60d3fa5](https://github.com/pebalogh-test/release-test/commit/60d3fa5b66fa344ded3ca015f22a121471b90eb8))
+
 ## [1.0.3](https://github.com/pebalogh-test/release-test/compare/test-release-v1.0.2...test-release-v1.0.3) (2025-02-26)
 
 
