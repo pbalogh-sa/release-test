@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.2](https://github.com/pebalogh-test/release-test/compare/test-release-v1.0.1...test-release-v1.0.2) (2025-02-26)
+
+
+### Bug Fixes
+
+* test ([d7aaf60](https://github.com/pebalogh-test/release-test/commit/d7aaf609e6a2b2e23ff174b72c2c884aaacda11d))
+* test ([3b0fe95](https://github.com/pebalogh-test/release-test/commit/3b0fe959129e59a7bbe3c0789584548e94e6432c))
+* test ([b8cbe2d](https://github.com/pebalogh-test/release-test/commit/b8cbe2d46f3e1d79dd67d05c67fe5f35ea170dc4))
+* update ([cbd297f](https://github.com/pebalogh-test/release-test/commit/cbd297f1e1d50cc5aceefaeffc9f3242408f76cd))
+
 ## [1.0.1](https://github.com/pebalogh-test/release-test/compare/test-release-v1.0.0...test-release-v1.0.1) (2025-02-26)
 
 
