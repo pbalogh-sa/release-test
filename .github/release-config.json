@@ -9,5 +9,11 @@
             "package-name": "test-release",
             "release-type": "simple"
         }
-    }
+    },
+    "extra-files": [
+        {
+          "type": "generic",
+          "path": "Taskfile.yaml"
+        }
+    ]
 }
