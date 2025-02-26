@@ -3,7 +3,7 @@ version: '3'
 silent: true
 
 vars:
-  TEST_RELEASE_TAG: 1.0.1 # x-release-please-version
+  TEST_RELEASE_TAG: '{{ .TEST_RELEASE_TAG | default "1.0.1" }}' # x-release-please-version
 
 tasks:
   default:
